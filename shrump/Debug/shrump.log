@@ -1,22 +1,24 @@
 ﻿  bullet.cpp
-c:\users\vspc-002400\source\repos\shrump\shrump\player.h(11): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\vspc-002400\documents\projects\visual_studio\shrump\shrump\player.h(11): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  player.cpp
+c:\users\vspc-002400\documents\projects\visual_studio\shrump\shrump\player.h(11): warning C4305: 'initializing': truncation from 'double' to 'const float'
   main.cpp
-c:\users\vspc-002400\source\repos\shrump\shrump\player.h(11): warning C4305: 'initializing': truncation from 'double' to 'const float'
-c:\users\vspc-002400\source\repos\shrump\shrump\main.cpp(10): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+c:\users\vspc-002400\documents\projects\visual_studio\shrump\shrump\player.h(11): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\vspc-002400\documents\projects\visual_studio\shrump\shrump\main.cpp(10): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\vspc-002400\source\repos\shrump\shrump\main.cpp(11): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+c:\users\vspc-002400\documents\projects\visual_studio\shrump\shrump\main.cpp(11): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\vspc-002400\source\repos\shrump\shrump\main.cpp(13): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+c:\users\vspc-002400\documents\projects\visual_studio\shrump\shrump\main.cpp(13): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\vspc-002400\source\repos\shrump\shrump\main.cpp(33): warning C4101: 'event': unreferenced local variable
+c:\users\vspc-002400\documents\projects\visual_studio\shrump\shrump\main.cpp(34): warning C4101: 'event': unreferenced local variable
   Generating Code...
-  shrump.vcxproj -> C:\Users\VSPC-002400\source\repos\shrump\shrump\.\bin\shrump.exe
+  shrump.vcxproj -> C:\Users\VSPC-002400\Documents\projects\Visual_Studio\shrump\shrump\.\bin\shrump.exe
